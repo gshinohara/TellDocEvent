@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TellDocEvent", "TellDocEvent\TellDocEvent.csproj", "{DDAC66A5-06EB-4332-A37D-2E9C819A2076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDAC66A5-06EB-4332-A37D-2E9C819A2076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAC66A5-06EB-4332-A37D-2E9C819A2076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAC66A5-06EB-4332-A37D-2E9C819A2076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAC66A5-06EB-4332-A37D-2E9C819A2076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {161A2C36-27B6-4308-8BF7-86D9D2665796}
+	EndGlobalSection
+EndGlobal
